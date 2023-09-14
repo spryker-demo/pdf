@@ -16,10 +16,9 @@ interface PdfServiceInterface
 {
     /**
      * Specification:
-     *  -Generate pdf content from html.
+     *  - Generates pdf content from html.
      *
      * @api
-     *  Specificaton:
      *
      * @param string $htmlString
      *
