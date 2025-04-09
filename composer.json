@@ -4,7 +4,7 @@
     "description": "Pdf module",
     "license": "proprietary",
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.2",
         "mpdf/mpdf": "^8.2.0",
         "spryker/kernel": "^3.70.0",
         "spryker/twig": "^3.18.2"
